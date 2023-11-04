@@ -20,8 +20,6 @@ I'm a Game Technology junior year student at Electronic Engineering Polytechnic 
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
 -  📍I’m currently live in Surabaya, Indonesia.  
   
 
@@ -29,23 +27,17 @@ I'm a Game Technology junior year student at Electronic Engineering Polytechnic 
   
 
 - ⚡ Fun fact: Despite all of my bustle in game development, in my spare time, i still found myself learning music too, 🎵🎸  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
 
 ## Languages and Tools  
 <div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 </div>  
 
 <br/>  
@@ -54,11 +46,11 @@ I'm a Game Technology junior year student at Electronic Engineering Polytechnic 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlissfulDystopian&show_icons=true&count_private=true&hide_border=true&bg_color=0f101a" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BlissfulDystopian&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlissfulDystopian&hide_border=true&layout=compact&bg_color=0f101a" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlissfulDystopian&hide_border=true&layout=compact&bg_color=0D1117" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -72,8 +64,3 @@ I'm a Game Technology junior year student at Electronic Engineering Polytechnic 
   
 
 <br/>  
-
-
-<br />
-
-----
