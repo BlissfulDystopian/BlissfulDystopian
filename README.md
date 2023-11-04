@@ -54,11 +54,11 @@ I'm a Game Technology junior year student at Electronic Engineering Polytechnic 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BlissfulDystopian&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BlissfulDystopian&show_icons=true&count_private=true&hide_border=true&bg_color=0f101a" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlissfulDystopian&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlissfulDystopian&hide_border=true&layout=compact&bg_color=0f101a" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -77,4 +77,3 @@ I'm a Game Technology junior year student at Electronic Engineering Polytechnic 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
