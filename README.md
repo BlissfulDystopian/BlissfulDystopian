@@ -15,7 +15,7 @@
 
 
 ### It's very nice to see you here!  
-I'm a Game Technology junior year student at Electronic Engineering Polytechnic Institute of Surabaya. For almost 3 years of study, I learned enough about Programming, software engineering and Game Development. I know that 3 years are far from something called enough, but i really am still have huge willingness and passion to learn anything about my major study inside or outside college's class.    
+I'm a Game Technology junior year student at Electronic Engineering Polytechnic Institute of Surabaya. For almost 3 years of study, I learned alot about programming, software engineering, game development. I know that 3 years are far from something called enough, but i really am still have huge willingness and passion to learn anything about my major study inside or outside college's class. 
   
 
 <br/>  
